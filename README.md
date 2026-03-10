@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## Name: Mopuri Saradeepika
+## Reg no: 212224040201
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +25,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+<img width="509" height="465" alt="Screenshot 2026-03-10 085253" src="https://github.com/user-attachments/assets/3506c70c-7e25-42d9-b7cc-fd3694d48b86" />
 
-# Result
-
-# Output 
+## Result :
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
